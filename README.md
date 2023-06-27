@@ -1,4 +1,4 @@
-# CS61B
+# CS188
 
 Personal archive of solutions to tasks of CS188 at UC Berkeley for Fall 2022.
 
